@@ -1,0 +1,27 @@
+p{
+    color: brown;
+    font-size: 20px;
+}
+
+h1{
+    color: aqua;
+    font-size: 32px;
+}
+
+h2{
+    color: blueviolet;
+    font-size: 24px;
+}
+
+h3{
+    color: violet;
+    font-size: 18px;
+}
+
+ol{
+    color: teal;
+}
+
+ul{
+    color:tomato;
+}
