@@ -1,3 +1,16 @@
+body{
+    background-color: rgb(231, 120, 179);
+}
+
+header{
+    background-color: rgba(17, 3, 9, 0.452);
+    font-size: 24px;
+}
+
+.link{
+    color: rgb(233, 186, 212);
+}
+
 p{
     color: brown;
     font-size: 20px;
@@ -24,4 +37,9 @@ ol{
 
 ul{
 color: aliceblue;
+}
+
+label{
+    font-size: 14px;
+    
 }
