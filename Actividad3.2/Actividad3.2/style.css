@@ -1,0 +1,45 @@
+body{
+    background-color: rgb(234, 161, 200);
+}
+
+header{
+    background-color: rgba(17, 3, 9, 0.452);
+    font-size: 24px;
+}
+
+.link{
+    color: rgb(233, 186, 212);
+}
+
+p{
+    color: brown;
+    font-size: 20px;
+}
+
+h1{
+    color: aqua;
+    font-size: 32px;
+}
+
+h2{
+    color: rgb(119, 29, 204);
+    font-size: 24px;
+}
+
+h3{
+    color: rgb(204, 72, 204);
+    font-size: 18px;
+}
+
+ol{
+    color: teal;
+}
+
+ul{
+color: aliceblue;
+}
+
+label{
+    font-size: 14px;
+    
+}
